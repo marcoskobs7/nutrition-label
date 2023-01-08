@@ -1,0 +1,1 @@
+Fornecemos um modelo de HTML básico para você.
